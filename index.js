@@ -1,6 +1,6 @@
 import React from 'react';
 import { Spinner } from 'reactstrap';
-import './spinner.css';
+import './index.css';
 
 /**
  * Adds a React component to show a loading icon.
